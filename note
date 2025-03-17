@@ -1,4 +1,12 @@
 1.create - index.ts,index.html
 2.create index.js (tsc index)
 3.auto update js when change ts (tsc --watch)
-4.
+4.create configration files (To manage files)
+     -target : "ES2016" (can use what u want)
+     -rootDir: src (fro all ts files)
+     -outFir : dist (for html css js files)
+     -removeComment
+     -noEmittor
+5.now create src and dist folders and place related files in there
+6.delete js files
+7.now re create js file with commond (tsc)
