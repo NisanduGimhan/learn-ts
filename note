@@ -1,0 +1,4 @@
+1.create - index.ts,index.html
+2.create index.js (tsc index)
+3.auto update js when change ts (tsc --watch)
+4.
